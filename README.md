@@ -1,2 +1,4 @@
 # MLkurs
+
+Maksinlæringskurs i Octave
  
